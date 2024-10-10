@@ -48,9 +48,9 @@ def delete_student(id):
     print(f"Student mi ID {id} wurde gelöscht.")
 
 # Main
-def main()
-    while True:
-        
+# def main()
+#    while True:
+
 
 
 # delete_student(2)
